@@ -10,6 +10,10 @@ The original "Three Musicians" is a notable work from Picasso's Synthetic Cubist
 
 ![three musicians by pablo picasso](Picasso_three_musicians_original.jpg)
 
+## Final Result
+
+![three musicians by me](final.jpg)
+
 ## Time Spent
 
 As someone who is a beginner in drawing, this project took me a long time to complete. The process involved learning and practicing new techniques, which contributed to the extended duration.
