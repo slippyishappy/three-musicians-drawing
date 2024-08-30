@@ -13,6 +13,7 @@ The original "Three Musicians" is a notable work from Picasso's Synthetic Cubist
 ## Final Result
 
 ![three musicians by me](final.jpg)
+(I know it isn't that good)
 
 ## Time Spent
 
